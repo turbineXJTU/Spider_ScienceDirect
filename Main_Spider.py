@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
-# anthor: 小偷的部落 time:2017/12/17
+# anthor: godusevpn time:2017/12/17
 
 
 import time
